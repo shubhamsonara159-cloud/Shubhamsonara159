@@ -543,6 +543,7 @@ Design and perform static structural analysis of a **carbon fiber reinforced pol
 | *<img width="848" height="560" alt="image" src="https://github.com/user-attachments/assets/0b040862-ccd9-4aa7-97ed-f41bef10ac1d" />
  | **Base Jaw Component**<br>• Precision machined interface<br>• Optimized for grip strength<br>• Manufacturable design with draft analysis |
 
+
 ### 📐 Design Features
 - ✅ Parametric dimensions for easy modification
 - ✅ Manufacturing considerations (draft angles, fillets)
@@ -559,6 +560,17 @@ Design and perform static structural analysis of a **carbon fiber reinforced pol
 ### CAD File
 [![[[STL File](https://drive.google.com/file/d/1DHjSgzLE-1GvEyVzbTtuvgDfAPWRScHn/view?usp=drive_link)]
 ---
+
+### 🔧 Featured Design: Porsche GT3 RS Side View Design
+**Software:** [SolidWorks]  
+**Type:** Automotive surface modeling
+
+## 🎥 DESIGN VISUALIZATION
+
+### Animation / Motion Study
+[![[[[Watch Animation](https://drive.google.com/file/d/133JVbjB6clYyYMkEWL70kwWiYvH3xSBV/view?usp=drive_link)]]
+### CAD File
+[![[[[STL File](https://drive.google.com/file/d/13apAdldV3YJVNDy6NKGdVGBNvTroLUgo/view?usp=drive_link)]]
 
 ## 💡 DESIGN PHILOSOPHY
 
