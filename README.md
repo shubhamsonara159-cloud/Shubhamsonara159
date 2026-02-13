@@ -535,13 +535,13 @@ Design and perform static structural analysis of a **carbon fiber reinforced pol
 
 ### 🔧 Featured Design: Mechanical Jaw Assembly
 
-**Component:** Boss-Extrude1 - Base of Jaw  
-**Software:** [Your CAD Software - SolidWorks/Inventor/Creo]  
+**Software:** [SolidWorks]  
 **Type:** Parametric Solid Model | Manufacturing-Ready Design
 
 | Preview | Details |
 |---------|---------|
-| *[Upload: jaw_base_image.png]* | **Base Jaw Component**<br>• Precision machined interface<br>• Optimized for grip strength<br>• Manufacturable design with draft analysis |
+| *<img width="848" height="560" alt="image" src="https://github.com/user-attachments/assets/0b040862-ccd9-4aa7-97ed-f41bef10ac1d" />
+ | **Base Jaw Component**<br>• Precision machined interface<br>• Optimized for grip strength<br>• Manufacturable design with draft analysis |
 
 ### 📐 Design Features
 - ✅ Parametric dimensions for easy modification
@@ -551,24 +551,13 @@ Design and perform static structural analysis of a **carbon fiber reinforced pol
 
 ---
 
-## 📁 CAD FILES & MODELS
-
-| File | Description | Format | Link |
-|------|-------------|--------|------|
-| **Jaw Base Assembly** | Complete jaw mechanism | .SLDPRT / .STEP | [⬇️ Download](Jaw_Base.SLDPRT) |
-| **Jaw Assembly** | Full assembly with all components | .SLDASM / .STEP | [⬇️ Download](Jaw_Assembly.SLDASM) |
-| **Technical Drawing** | 2D drawing with GD&T | .PDF | [⬇️ Download](Jaw_Drawing.pdf) |
-
----
-
 ## 🎥 DESIGN VISUALIZATION
 
 ### Animation / Motion Study
-[![[Watch Animation](https://drive.google.com/file/d/1xuxxkCB-Fr_ETgu9kvBzxQl9QUUzzdvy/view?usp=drive_link)](youtube_placeholder.png)]
-
+[![[[Watch Animation](https://drive.google.com/file/d/1xuxxkCB-Fr_ETgu9kvBzxQl9QUUzzdvy/view?usp=drive_link)]
 > *📌 **Note:** Click the image above to view the jaw mechanism in motion*
 ### CAD File
-[![[STL File](https://drive.google.com/file/d/1DHjSgzLE-1GvEyVzbTtuvgDfAPWRScHn/view?usp=drive_link)]
+[![[[STL File](https://drive.google.com/file/d/1DHjSgzLE-1GvEyVzbTtuvgDfAPWRScHn/view?usp=drive_link)]
 ---
 
 ## 💡 DESIGN PHILOSOPHY
