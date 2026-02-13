@@ -172,7 +172,7 @@ Validate finite element analysis (FEA) predictions against Peterson's theoretica
 
 ## 📚 COMPLETE REPORT
 
-📎 **[Download Full Analysis Report (PDF)]([Analysis_Test_Correlation.pdf](https://drive.google.com/file/d/1_JJMr1fJPw6OwN85NkwjqSGbb5CWG9P4/view?usp=drive_link))**
+📎 **[[https://drive.google.com/file/d/1_JJMr1fJPw6OwN85NkwjqSGbb5CWG9P4/view?usp=drive_link](https://drive.google.com/file/d/1_JJMr1fJPw6OwN85NkwjqSGbb5CWG9P4/view?usp=drive_link)]([Analysis_Test_Correlation.pdf](https://drive.google.com/file/d/1_JJMr1fJPw6OwN85NkwjqSGbb5CWG9P4/view?usp=drive_link))**
 
 *Contains: Complete methodology, mesh details, boundary conditions, all stress plots, theoretical calculations, and correlation tables (57 pages)*
 
