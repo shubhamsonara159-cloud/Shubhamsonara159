@@ -529,6 +529,60 @@ Design and perform static structural analysis of a **carbon fiber reinforced pol
 
 ---
 
+## 🎨 DESIGN SHOWCASE - CAD MODELS & ASSEMBLIES
+
+> *Exploring form, function, and manufacturability through parametric design*
+
+### 🔧 Featured Design: Mechanical Jaw Assembly
+
+**Component:** Boss-Extrude1 - Base of Jaw  
+**Software:** [Your CAD Software - SolidWorks/Inventor/Creo]  
+**Type:** Parametric Solid Model | Manufacturing-Ready Design
+
+| Preview | Details |
+|---------|---------|
+| *[Upload: jaw_base_image.png]* | **Base Jaw Component**<br>• Precision machined interface<br>• Optimized for grip strength<br>• Manufacturable design with draft analysis |
+
+### 📐 Design Features
+- ✅ Parametric dimensions for easy modification
+- ✅ Manufacturing considerations (draft angles, fillets)
+- ✅ Assembly-ready with proper tolerances
+- ✅ Stress-optimized geometry
+
+---
+
+## 📁 CAD FILES & MODELS
+
+| File | Description | Format | Link |
+|------|-------------|--------|------|
+| **Jaw Base Assembly** | Complete jaw mechanism | .SLDPRT / .STEP | [⬇️ Download](Jaw_Base.SLDPRT) |
+| **Jaw Assembly** | Full assembly with all components | .SLDASM / .STEP | [⬇️ Download](Jaw_Assembly.SLDASM) |
+| **Technical Drawing** | 2D drawing with GD&T | .PDF | [⬇️ Download](Jaw_Drawing.pdf) |
+
+---
+
+## 🎥 DESIGN VISUALIZATION
+
+### Animation / Motion Study
+[![[Watch Animation](https://drive.google.com/file/d/1xuxxkCB-Fr_ETgu9kvBzxQl9QUUzzdvy/view?usp=drive_link)](youtube_placeholder.png)]
+
+> *📌 **Note:** Click the image above to view the jaw mechanism in motion*
+### CAD File
+[![[STL File](https://drive.google.com/file/d/1DHjSgzLE-1GvEyVzbTtuvgDfAPWRScHn/view?usp=drive_link)]
+---
+
+## 💡 DESIGN PHILOSOPHY
+
+> *"A well-designed part isn't just strong—it's manufacturable, serviceable, and elegant."*
+
+Each design in this showcase represents:
+- ✅ **Manufacturing-first approach** - Draft angles, tool access, assembly sequence considered
+- ✅ **Parametric flexibility** - Easy modifications for design iterations
+- ✅ **Clear communication** - Detailed drawings with GD&T
+- ✅ **Real-world application** - Designed for actual production
+
+---
+
 ## 📬 LET'S CONNECT
 
 I'm actively seeking opportunities in:
