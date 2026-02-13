@@ -172,7 +172,8 @@ Validate finite element analysis (FEA) predictions against Peterson's theoretica
 
 ## 📚 COMPLETE REPORT
 
-📎 **[[https://drive.google.com/file/d/1_JJMr1fJPw6OwN85NkwjqSGbb5CWG9P4/view?usp=drive_link](https://drive.google.com/file/d/1_JJMr1fJPw6OwN85NkwjqSGbb5CWG9P4/view?usp=drive_link)]([Analysis_Test_Correlation.pdf](https://drive.google.com/file/d/1_JJMr1fJPw6OwN85NkwjqSGbb5CWG9P4/view?usp=drive_link))**
+📎 **[[Stress Concentration Analysis Report](https://drive.google.com/file/d/1_JJMr1fJPw6OwN85NkwjqSGbb5CWG9P4/view?usp=drive_link)](Analysis_Test_Correlation.pdf)**  
+*57-page complete FEA validation of Peterson's stress concentration factors*
 
 *Contains: Complete methodology, mesh details, boundary conditions, all stress plots, theoretical calculations, and correlation tables (57 pages)*
 
@@ -343,10 +344,7 @@ CubeSats are exposed to extreme vibration during rocket launch. A failed bracket
 
 ## 📚 COMPLETE REPORTS
 
-📎 **[Project 1: [Stress Concentration Analysis Report](https://drive.google.com/file/d/1_JJMr1fJPw6OwN85NkwjqSGbb5CWG9P4/view?usp=drive_link)](Analysis_Test_Correlation.pdf)**  
-*57-page complete FEA validation of Peterson's stress concentration factors*
-
-📎 **[Project 2: [CubeSat Electronics Assembly Report](https://drive.google.com/file/d/1kzxxJiW3C-UOEjoettPY4SImIeP1KPZJ/view?usp=drive_link)](Simulation_of_CubeSat_Electronics_Assembly.pdf)**  
+📎 **[[CubeSat Electronics Assembly Report](https://drive.google.com/file/d/1kzxxJiW3C-UOEjoettPY4SImIeP1KPZJ/view?usp=drive_link)](Simulation_of_CubeSat_Electronics_Assembly.pdf)**  
 *65-page comprehensive aerospace bracket analysis with nonlinear FEA and modal analysis*
 
 ---
