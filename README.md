@@ -71,17 +71,21 @@ Validate finite element analysis (FEA) predictions against Peterson's theoretica
 ## 📸 KEY VISUAL RESULTS
 
 ### Plate with Hole - Stress Distribution
-![Placeholder: Upload image of stress contour for plate with hole]
+<img width="940" height="468" alt="image" src="https://github.com/user-attachments/assets/180e28a2-489d-4314-98db-4c9fee2a7a6f" />
+
 
 *Fig 1: Von-Mises stress distribution showing maximum stress at hole edge*
 
 ### Cantilever Beam - Linear Stress Pattern
-![Placeholder: Upload image of beam stress distribution]
+<img width="940" height="507" alt="image" src="https://github.com/user-attachments/assets/f657d9d0-72db-46ca-a48c-b5385931affb" />
+
+
 
 *Fig 2: Linear stress variation across beam height confirming bending theory*
 
 ### Shoulder Fillet - Stress Concentration
-![Placeholder: Upload image of fillet stress contour]
+<img width="749" height="431" alt="image" src="https://github.com/user-attachments/assets/72cacd40-70c3-4a65-899e-0c46065b4997" />
+
 
 *Fig 3: Maximum principal stress at fillet root*
 
