@@ -659,11 +659,12 @@ Design and perform static structural analysis of a **carbon fiber reinforced pol
 ### 📁 CAD Files
 | File | Description | Format | Link |
 |------|-------------|--------|------|
-| **Full Pump Assembly** | Complete centrifugal pump | .SLDASM | [⬇️ Download]([[Centrifugal_Pump_Assembly.SLDASM]](https://drive.google.com/file/d/1Ow6IMRqj_t4rm53GcW-qntSOM763Eczx/view?usp=drive_link)) |
+| **Full Pump Assembly** | Complete centrifugal pump | .SLDASM |CAD File
+[![[[[[STL File](https://drive.google.com/file/d/1Ow6IMRqj_t4rm53GcW-qntSOM763Eczx/view?usp=drive_link)]]]
 
 
 ### 🎥 Animation
-[![Pump 3D Rotation](pump_thumbnail.png)]([pump_animation.mp4](https://drive.google.com/file/d/1yl3Kv6atwfIJSos7mL0MnHumhGoIOO4X/view?usp=drive_link))
+[![[[[Watch Animation](https://drive.google.com/file/d/1yl3Kv6atwfIJSos7mL0MnHumhGoIOO4X/view?usp=drive_link)]]
 *Click to view the full pump assembly rotation*
 
 
