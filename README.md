@@ -638,6 +638,35 @@ Design and perform static structural analysis of a **carbon fiber reinforced pol
 
 > *Exploring form, function, and manufacturability through parametric design*
 
+## 🏭 Featured Design: Centrifugal Pump Assembly
+
+**Software:** SolidWorks  
+**Type:** Full Assembly | Industrial Pump Design
+
+| Preview | Details |
+|---------|---------|
+| <img width="665" height="393" alt="image" src="https://github.com/user-attachments/assets/fbb30899-eb04-49b8-9218-e39647cca476" />
+ | **Centrifugal Pump**<br>• Complete pump assembly with stand<br>• CFRP shaft integration (see Project 3)<br>• Industrial application-ready design |
+
+### 📐 Design Features
+| Feature | Description |
+|---------|-------------|
+| ✅ **Extrude- feature** | Thin-wall stand for lightweight support |
+| ✅ **Curved impeller vanes** | Optimized for fluid flow efficiency |
+| ✅ **Volute casing** | Spiral design for pressure conversion |
+| ✅ **Modular assembly** | Easy maintenance and part replacement |
+
+### 📁 CAD Files
+| File | Description | Format | Link |
+|------|-------------|--------|------|
+| **Full Pump Assembly** | Complete centrifugal pump | .SLDASM | [⬇️ Download]([[Centrifugal_Pump_Assembly.SLDASM]](https://drive.google.com/file/d/1Ow6IMRqj_t4rm53GcW-qntSOM763Eczx/view?usp=drive_link)) |
+
+
+### 🎥 Animation
+[![Pump 3D Rotation](pump_thumbnail.png)]([pump_animation.mp4](https://drive.google.com/file/d/1yl3Kv6atwfIJSos7mL0MnHumhGoIOO4X/view?usp=drive_link))
+*Click to view the full pump assembly rotation*
+
+
 ### 🔧 Featured Design: Mechanical Jaw Assembly
 
 **Software:** [SolidWorks]  
