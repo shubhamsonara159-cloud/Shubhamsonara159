@@ -690,10 +690,10 @@ Design and perform static structural analysis of a **carbon fiber reinforced pol
 ## 🎥 DESIGN VISUALIZATION
 
 ### Animation / Motion Study
-![Watch Animation](https://drive.google.com/file/d/1xuxxkCB-Fr_ETgu9kvBzxQl9QUUzzdvy/view?usp=drive_link)]
+![[Watch Animation](https://drive.google.com/file/d/1xuxxkCB-Fr_ETgu9kvBzxQl9QUUzzdvy/view?usp=drive_link)]
 > *📌 **Note:** Click the image above to view the jaw mechanism in motion*
 ### CAD File
-![STL File](https://drive.google.com/file/d/1DHjSgzLE-1GvEyVzbTtuvgDfAPWRScHn/view?usp=drive_link)]
+![[STL File](https://drive.google.com/file/d/1DHjSgzLE-1GvEyVzbTtuvgDfAPWRScHn/view?usp=drive_link)]
 ---
 
 ### 🔧 Featured Design: Porsche GT3 RS Side View Design
