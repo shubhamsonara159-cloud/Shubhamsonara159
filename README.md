@@ -108,7 +108,7 @@ When I move my hand, the robot calculates its new position using:
 # 🌡️ Publication : Enhanced Thermal-Hydraulic Performance of a Converging-Diverging Microchannel Heat Sink with Transverse Slots
 
 > **Published Researcher | Advanced Fluid Mechanics**  
-> **DOI: [10.20944/preprints202512.2550.v1](https://DOI:10.20944/preprints202512.2550.v1)**
+> **DOI: [[10.20944/preprints202512.2550.v1](https://DOI:10.20944/preprints202512.2550.v1)]**
 
 ### 🎯 Objective
 
@@ -148,8 +148,6 @@ I proposed and validated a **Slotted Converging-Diverging (S-CD) geometry** wher
 > *"The S-CD design achieves 31% better heat transfer with only 8% increase in friction factor – resulting in a 27% overall performance improvement with zero additional pumping power requirement."*
 
 ### Publication Details
-
-📎 **[[Full Paper](DOI:10.20944/preprints202512.2550.v1)]**
 
 **Authors:** Shubham J. Sonara  
 **Subject:** Advanced Fluid Mechanics 6630-01  
