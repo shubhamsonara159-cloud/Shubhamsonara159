@@ -105,6 +105,57 @@ When I move my hand forward, the robot moves forward. When I open my hand, the g
 
 When I move my hand, the robot calculates its new position using:
 
+# 🌡️ Publication : Enhanced Thermal-Hydraulic Performance of a Converging-Diverging Microchannel Heat Sink with Transverse Slots
+
+> **Published Researcher | Advanced Fluid Mechanics**  
+> **DOI: [10.20944/preprints202512.2550.v1](https://DOI:10.20944/preprints202512.2550.v1)**
+
+### 🎯 Objective
+
+Design and analyze a novel **Slotted Converging-Diverging (S-CD) microchannel heat sink** to address the fundamental limitation of conventional microchannels: **thermal boundary layer thickening** that restricts heat transfer in high-heat-flux electronics (>100 W/cm²).
+
+### 💡 My Innovation
+
+I proposed and validated a **Slotted Converging-Diverging (S-CD) geometry** where:
+- ✅ **Transverse slots** are placed in diverging sections
+- ✅ Slots create **micro-jets** that disrupt boundary layers
+- ✅ **Vortical mixing** enhances heat transfer without extra pumping power
+- ✅ **Synergistic effect** combines CD vortices + slot-induced mixing
+
+### 🛠️ Methodology
+
+| Aspect | Details |
+|--------|---------|
+| **Software** | COMSOL Multiphysics - Conjugate Heat Transfer Module |
+| **Physics** | 3D laminar flow, conjugate heat transfer, temperature-dependent fluid properties |
+| **Geometry** | Straight (S-MC), Converging-Diverging (CD-MC), Slotted CD (S-CD-MC) |
+| **Mesh** | 2,036,856 domain elements with inflation layers at fluid-solid interfaces |
+| **Validation** | Compared with Shah-London correlation (±4% for Nusselt number) |
+
+### 📊 KEY RESULTS
+
+| Metric | Straight MC | CD-MC | S-CD-MC (My Design) | Improvement |
+|--------|-------------|-------|---------------------|-------------|
+| **Peak Temperature** | 358.4 K | 340.1 K | **332.9 K** | **21.4% ↓ vs CD** |
+| **Thermal Resistance** | Highest | 7.3×10⁻³ K/W | **6.0×10⁻³ K/W** | **28% ↓ vs CD** |
+| **Pressure Drop** | Highest | 6.93 kPa | **6.91 kPa** | **No penalty!** |
+| **Nusselt Number** | Baseline | Moderate | **+31% enhancement** | **31% ↑** |
+| **Friction Factor** | Baseline | Moderate | **+8% increase** | **Minimal** |
+| **PEC (Performance)** | — | 1.00 | **1.27** | **27% overall ↑** |
+
+### Key Finding
+
+> *"The S-CD design achieves 31% better heat transfer with only 8% increase in friction factor – resulting in a 27% overall performance improvement with zero additional pumping power requirement."*
+
+### Publication Details
+
+📎 **[[Full Paper](DOI:10.20944/preprints202512.2550.v1)]**
+
+**Authors:** Shubham J. Sonara  
+**Subject:** Advanced Fluid Mechanics 6630-01  
+**Professor:** Dr. Sumith Yesudasan, Ph.D.  
+**Institution:** University of New Haven
+
 ## 📂 FEATURED PROJECTS
 
 | # | Project | Description | Tools | Status |
