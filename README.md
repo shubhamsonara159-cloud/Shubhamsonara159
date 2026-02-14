@@ -49,6 +49,62 @@ I believe that successful mechanical engineers don't just analyze components—t
 
 ---
 
+# 🤖 Research Work: Dual Robotic Arm Teleoperation via Learn-from-Demonstration
+
+> **Research Assistant** | Mechatronics Lab, University of New Haven  
+---
+
+## 📋 PROJECT OVERVIEW
+
+### 🎯 What I Did
+
+As a **research assistant in the Mechatronics Lab**, I contributed to developing a **gesture-based teleoperation system** that enables intuitive control of **dual UR3e robotic arms** using a **Leap Motion sensor**. 
+
+**The concept is simple but powerful:**  
+👉 *Your hands become the robot's hands – in real time.*
+
+When I move my hand forward, the robot moves forward. When I open my hand, the gripper opens. When I close my fist, the gripper closes. Both arms work together, mirroring my bimanual coordination naturally.
+
+---
+
+## 🎥 THE VIDEO: ROBOT MIMICKING HAND MOTION
+
+### Watch: Dual UR3e Robots Controlled by Hand Gestures
+
+[![[Dual Robot Teleoperation Demo](https://drive.google.com/file/d/1CPsMGz-BkGvJhTftR8GT6BbFpRhv_09h/view?usp=drive_link)]
+
+> *Click the image above to watch the full demonstration – my hand movements control both UR3e arms simultaneously in real-time*
+
+### What You'll See in the Video:
+
+| Timestamp | Demonstration |
+|-----------|---------------|
+| **0:00** | System setup – Leap Motion sensor facing upward, two UR3e robots on table |
+| **0:15** | Calibration – Mapping my hand position to robot home position |
+| **0:30** | Single-arm control – Left hand moves left robot forward/backward, left/right, up/down |
+| **1:00** | Dual-arm coordination – Both hands control both robots independently |
+| **1:30** | Gripper control – Open hand → gripper opens, Closed fist → gripper closes |
+| **2:00** | Complex task – Picking up objects with both arms simultaneously |
+| **2:30** | Response time test – Quick hand motions with instant robot reaction (visible in real-time) |
+| **3:00** | Precision task – Positioning objects with millimeter accuracy |
+
+---
+
+## 📝 THE RESEARCH BEHIND THE VIDEO
+
+### 🧠 How It Works
+
+| Component | Function |
+|-----------|----------|
+| **Leap Motion Sensor** | Tracks hand position (x, y, z) and orientation at 60 frames/second |
+| **Python Script** | Processes hand data, applies filtering, calculates target positions |
+| **RTDE Protocol** | Sends commands to UR3e robots at 10Hz over Ethernet |
+| **UR3e Robots** | Two 6-DOF collaborative robots that mirror hand movements |
+
+### The Math (Simple Version)
+
+When I move my hand, the robot calculates its new position using:
+
 ## 📂 FEATURED PROJECTS
 
 | # | Project | Description | Tools | Status |
