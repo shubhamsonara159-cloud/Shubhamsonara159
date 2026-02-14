@@ -108,7 +108,7 @@ When I move my hand, the robot calculates its new position using:
 # 🌡️ Publication : Enhanced Thermal-Hydraulic Performance of a Converging-Diverging Microchannel Heat Sink with Transverse Slots
 
 > **Published Researcher | Advanced Fluid Mechanics**  
-> **DOI: [[10.20944/preprints202512.2550.v1](10.20944/preprints202512.2550.v1](https://doi.org/10.20944/preprints202512.2550.v1)]**
+> **DOI: [[10.20944/preprints202512.2550.v1](https://doi.org/10.20944/preprints202512.2550.v1)]**
 
 ### 🎯 Objective
 
