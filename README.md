@@ -191,7 +191,7 @@ This project validates Finite Element Analysis (FEA) accuracy by comparing simul
 
 ---
 ### 📂 Documentation
-[**Click here to view the Full 57-Page Technical Report (https://drive.google.com/file/d/1_JJMr1fJPw6OwN85NkwjqSGbb5CWG9P4/view?usp=drive_link))**]
+[**Click here to view Stress Concentration Analysis Technical Report (https://drive.google.com/file/d/1_JJMr1fJPw6OwN85NkwjqSGbb5CWG9P4/view?usp=drive_link))**]
 
 ---
 # 🛰️ PROJECT 2: CubeSat Electronics Mounting Bracket Analysis
@@ -219,7 +219,7 @@ This project focuses on the design and structural validation of a mounting brack
 
 ---
 ### 📂 Documentation
-[**Click here to view the Full 65-Page Aerospace Analysis (https://drive.google.com/file/d/1kzxxJiW3C-UOEjoettPY4SImIeP1KPZJ/view?usp=drive_link)**]
+[**Click here to view Simulation of CubeSat Electronics Assembly Report (https://drive.google.com/file/d/1kzxxJiW3C-UOEjoettPY4SImIeP1KPZJ/view?usp=drive_link)**]
 ---
 
 # 🔧 PROJECT 3: CFRP Vertical Pump Shaft Analysis
@@ -248,7 +248,7 @@ This project involves the structural design and optimization of a **Carbon Fiber
 
 ---
 ### 📂 Documentation
-[**Click here to view the Full 27-Page Technical Report (https://drive.google.com/file/d/1nvamfVeiSXRf3xH7h8CjGFaJaigAe4AB/view?usp=drive_link)**]
+[**Click here to view CFRP Vertical Pump Shaft Analysis Report (https://drive.google.com/file/d/1nvamfVeiSXRf3xH7h8CjGFaJaigAe4AB/view?usp=drive_link)**]
 ---
 
 
@@ -278,11 +278,11 @@ This project involves the structural design and optimization of a **Carbon Fiber
 | File | Description | Format | Link |
 |------|-------------|--------|------|
 | **Full Pump Assembly** | Complete centrifugal pump | .SLDASM |CAD File
-[![[[[[STL File](https://drive.google.com/file/d/1Ow6IMRqj_t4rm53GcW-qntSOM763Eczx/view?usp=drive_link)]]]
+[[STL File](https://drive.google.com/file/d/1Ow6IMRqj_t4rm53GcW-qntSOM763Eczx/view?usp=drive_link)]
 
 
 ### 🎥 Animation
-[![[[[Watch Animation](https://drive.google.com/file/d/1yl3Kv6atwfIJSos7mL0MnHumhGoIOO4X/view?usp=drive_link)]]
+[[Watch Animation](https://drive.google.com/file/d/1yl3Kv6atwfIJSos7mL0MnHumhGoIOO4X/view?usp=drive_link)]
 *Click to view the full pump assembly rotation*
 
 
@@ -308,10 +308,10 @@ This project involves the structural design and optimization of a **Carbon Fiber
 ## 🎥 DESIGN VISUALIZATION
 
 ### Animation / Motion Study
-![[Watch Animation](https://drive.google.com/file/d/1xuxxkCB-Fr_ETgu9kvBzxQl9QUUzzdvy/view?usp=drive_link)]
+[[Watch Animation](https://drive.google.com/file/d/1xuxxkCB-Fr_ETgu9kvBzxQl9QUUzzdvy/view?usp=drive_link)]
 > *📌 **Note:** Click the image above to view the jaw mechanism in motion*
 ### CAD File
-![[STL File](https://drive.google.com/file/d/1DHjSgzLE-1GvEyVzbTtuvgDfAPWRScHn/view?usp=drive_link)]
+[[STL File](https://drive.google.com/file/d/1DHjSgzLE-1GvEyVzbTtuvgDfAPWRScHn/view?usp=drive_link)]
 ---
 
 ### 🔧 Featured Design: Porsche GT3 RS Side View Design
@@ -321,9 +321,9 @@ This project involves the structural design and optimization of a **Carbon Fiber
 ## 🎥 DESIGN VISUALIZATION
 
 ### Animation / Motion Study
-![[Watch Animation](https://drive.google.com/file/d/133JVbjB6clYyYMkEWL70kwWiYvH3xSBV/view?usp=drive_link)]]
+[[Watch Animation](https://drive.google.com/file/d/133JVbjB6clYyYMkEWL70kwWiYvH3xSBV/view?usp=drive_link)]
 ### CAD File
-![[STL File](https://drive.google.com/file/d/13apAdldV3YJVNDy6NKGdVGBNvTroLUgo/view?usp=drive_link)]]
+[[STL File](https://drive.google.com/file/d/13apAdldV3YJVNDy6NKGdVGBNvTroLUgo/view?usp=drive_link)]
 
 ## 💡 DESIGN PHILOSOPHY
 
