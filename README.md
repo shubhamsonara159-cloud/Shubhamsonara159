@@ -336,6 +336,7 @@ This project involves the structural design and optimization of a **Carbon Fiber
 ### Animation / Motion Study
 [[Watch Animation](https://drive.google.com/file/d/1xuxxkCB-Fr_ETgu9kvBzxQl9QUUzzdvy/view?usp=drive_link)]
 > *📌 **Note:** Click the link above to view the jaw mechanism in motion*
+
 [CAD File] | [STL File](https://drive.google.com/file/d/1DHjSgzLE-1GvEyVzbTtuvgDfAPWRScHn/view?usp=drive_link)
 
 
