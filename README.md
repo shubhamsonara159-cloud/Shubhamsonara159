@@ -191,7 +191,7 @@ This project validates Finite Element Analysis (FEA) accuracy by comparing simul
 
 ---
 ### 📂 Documentation
-[**Click here to view the Full 57-Page Technical Report (PDF)**](https://drive.google.com/file/d/1_JJMr1fJPw6OwN85NkwjqSGbb5CWG9P4/view?usp=drive_link)
+[**Click here to view the Full 57-Page Technical Report (https://drive.google.com/file/d/1_JJMr1fJPw6OwN85NkwjqSGbb5CWG9P4/view?usp=drive_link))**]
 
 ---
 # 🛰️ PROJECT 2: CubeSat Electronics Mounting Bracket
