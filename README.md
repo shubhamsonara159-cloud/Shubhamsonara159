@@ -183,6 +183,9 @@ This project validates Finite Element Analysis (FEA) accuracy by comparing simul
 | **Shoulder Fillet (r/d=0.3)** | 1.52 | 1.55 | **2.2% Error** |
 | **Beam Bending (2"x3")** | 7,333 psi | 8,653 psi | **Validated** |
 
+---
+
+
 ## 🛠️ Tools Used
 * **Simulation:** Ansys Workbench (Static Structural)
 * **Verification:** Peterson’s Stress Concentration Formulas
@@ -210,6 +213,8 @@ This project focuses on the design and structural validation of a mounting brack
 | **Max Stress (X-Axis)** | - | 293.9 MPa | **81.3 MPa** | 72% ↓ |
 | **Min Safety Factor** | > 1.5 | 1.43 | **2.14** | ✅ PASSED |
 | **1st Nat. Frequency**| > 65 Hz | 123 Hz | **281 Hz** | ✅ EXCEEDED |
+
+---
 
 ## 🛠️ Engineering Competencies
 * **Nonlinear FEA:** Simulated frictional contacts (µ=0.2) and large deflections for realistic load path analysis.
@@ -241,6 +246,8 @@ This project involves the structural design and optimization of a **Carbon Fiber
 | **Improved** | [0/45/-45/90]s × 2 | 16 | 12.287 | 0.04 | High Strength |
 | **Optimized** | **[0/45/-45/90]s × 2*** | **14** | **10.591** | **0.05** | ✅ **FINAL** |
 *\*Optimized design utilizes targeted ply-dropping for weight efficiency.*
+
+---
 
 ## 🛠️ Tools Used
 * **Simulation:** Ansys Workbench (Static Structural & ACP/Composite PrepPost)
