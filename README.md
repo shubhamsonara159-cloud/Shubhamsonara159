@@ -218,8 +218,10 @@ This project focuses on the design and structural validation of a mounting brack
 
 ---
 ### 📂 Documentation
-[**Click here to view Simulation of CubeSat Electronics Assembly Report (https://drive.google.com/file/d/1kzxxJiW3C-UOEjoettPY4SImIeP1KPZJ/view?usp=drive_link)**]
+[[Click here to view Simulation of CubeSat Electronics Assembly Report](https://drive.google.com/file/d/1kzxxJiW3C-UOEjoettPY4SImIeP1KPZJ/view?usp=drive_link)]
+
 ---
+
 
 # 🔧 PROJECT 3: CFRP Vertical Pump Shaft Analysis
 **Composite Material Design, Ply Optimization & Tsai-Wu Failure Validation**
