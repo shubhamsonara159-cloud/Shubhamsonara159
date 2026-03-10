@@ -278,8 +278,6 @@ This project involves the structural design and optimization of a **Carbon Fiber
 
 
 
-
-
 ## 🎨 DESIGN SHOWCASE - CAD MODELS & ASSEMBLIES
 
 > *Exploring form, function, and manufacturability through parametric design*
@@ -295,19 +293,18 @@ This project involves the structural design and optimization of a **Carbon Fiber
  | **Centrifugal Pump**<br>• Complete pump assembly with stand<br>• CFRP shaft integration (see Project 3)<br>• Industrial application-ready design |
 
 ### 📐 Design Features
-| Feature | Description |
-|---------|-------------|
-| ✅ **Extrude- feature** | Thin-wall stand for lightweight support |
-| ✅ **Curved impeller vanes** | Optimized for fluid flow efficiency |
-| ✅ **Volute casing** | Spiral design for pressure conversion |
-| ✅ **Modular assembly** | Easy maintenance and part replacement |
 
+- ✅ **Extrude Feature** — Thin-wall stand for lightweight support
+- ✅ **Curved Impeller Vanes** — Optimized for fluid flow efficiency
+- ✅ **Volute Casing** — Spiral design for pressure conversion
+- ✅ **Modular Assembly** — Easy maintenance and part replacement
+  
 ### 📁 CAD Files
 
 **Full Pump Assembly**
 - Description: Complete centrifugal pump
 - Format: .SLDASM
-- [CAD File](#) | [STL File](https://drive.google.com/file/d/1Ow6IMRqj_t4rm53GcW-qntSOM763Eczx/view?usp=drive_link)
+- [CAD File] | [STL File](https://drive.google.com/file/d/1Ow6IMRqj_t4rm53GcW-qntSOM763Eczx/view?usp=drive_link)
 
 
 📁 CAD Files
@@ -346,8 +343,8 @@ This project involves the structural design and optimization of a **Carbon Fiber
 ### Animation / Motion Study
 [[Watch Animation](https://drive.google.com/file/d/1xuxxkCB-Fr_ETgu9kvBzxQl9QUUzzdvy/view?usp=drive_link)]
 > *📌 **Note:** Click the link above to view the jaw mechanism in motion*
-### CAD File
-[[STL File](https://drive.google.com/file/d/1DHjSgzLE-1GvEyVzbTtuvgDfAPWRScHn/view?usp=drive_link)]
+> [CAD File] | [STL File](https://drive.google.com/file/d/1DHjSgzLE-1GvEyVzbTtuvgDfAPWRScHn/view?usp=drive_link)
+
 
 ---
 
@@ -359,8 +356,11 @@ This project involves the structural design and optimization of a **Carbon Fiber
 
 ### Animation / Motion Study
 [[Watch Animation](https://drive.google.com/file/d/133JVbjB6clYyYMkEWL70kwWiYvH3xSBV/view?usp=drive_link)]
+
+[CAD File] | [STL File](https://drive.google.com/file/d/13apAdldV3YJVNDy6NKGdVGBNvTroLUgo/view?usp=drive_link)
+
 ### CAD File
-[[STL File](https://drive.google.com/file/d/13apAdldV3YJVNDy6NKGdVGBNvTroLUgo/view?usp=drive_link)]
+[[STL File]()]
 
 ## 💡 DESIGN PHILOSOPHY
 
