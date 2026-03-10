@@ -307,13 +307,6 @@ This project involves the structural design and optimization of a **Carbon Fiber
 - [CAD File] | [STL File](https://drive.google.com/file/d/1Ow6IMRqj_t4rm53GcW-qntSOM763Eczx/view?usp=drive_link)
 
 
-📁 CAD Files
-| File | Description | Format | Link |
-|------|-------------|--------|------|
-| **Full Pump Assembly** | Complete centrifugal pump | .SLDASM |CAD File
-[[STL File](https://drive.google.com/file/d/1Ow6IMRqj_t4rm53GcW-qntSOM763Eczx/view?usp=drive_link)]
-
-
 ### 🎥 Animation
 [[Watch Animation](https://drive.google.com/file/d/1yl3Kv6atwfIJSos7mL0MnHumhGoIOO4X/view?usp=drive_link)]
 *Click to view the full pump assembly rotation*
@@ -359,8 +352,6 @@ This project involves the structural design and optimization of a **Carbon Fiber
 
 [CAD File] | [STL File](https://drive.google.com/file/d/13apAdldV3YJVNDy6NKGdVGBNvTroLUgo/view?usp=drive_link)
 
-### CAD File
-[[STL File]()]
 
 ## 💡 DESIGN PHILOSOPHY
 
