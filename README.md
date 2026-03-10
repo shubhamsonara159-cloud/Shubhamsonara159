@@ -249,7 +249,9 @@ This project involves the structural design and optimization of a **Carbon Fiber
 
 ---
 ### 📂 Documentation
-[**Click here to view CFRP Vertical Pump Shaft Analysis Report (https://drive.google.com/file/d/1nvamfVeiSXRf3xH7h8CjGFaJaigAe4AB/view?usp=drive_link)**]
+
+[[Click here to view CFRP Vertical Pump Shaft Analysis Report](https://drive.google.com/file/d/1nvamfVeiSXRf3xH7h8CjGFaJaigAe4AB/view?usp=drive_link)]
+
 ---
 
 
@@ -310,9 +312,10 @@ This project involves the structural design and optimization of a **Carbon Fiber
 
 ### Animation / Motion Study
 [[Watch Animation](https://drive.google.com/file/d/1xuxxkCB-Fr_ETgu9kvBzxQl9QUUzzdvy/view?usp=drive_link)]
-> *📌 **Note:** Click the image above to view the jaw mechanism in motion*
+> *📌 **Note:** Click the link above to view the jaw mechanism in motion*
 ### CAD File
 [[STL File](https://drive.google.com/file/d/1DHjSgzLE-1GvEyVzbTtuvgDfAPWRScHn/view?usp=drive_link)]
+
 ---
 
 ### 🔧 Featured Design: Porsche GT3 RS Side View Design
