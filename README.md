@@ -71,7 +71,7 @@ When I move my hand forward, the robot moves forward. When I open my hand, the g
 
 ### Watch: Dual UR3e Robots Controlled by Hand Gestures
 
-[![[Dual Robot Teleoperation Demo](https://drive.google.com/file/d/1CPsMGz-BkGvJhTftR8GT6BbFpRhv_09h/view?usp=drive_link)]
+[[Dual Robot Teleoperation Demo](https://drive.google.com/file/d/1CPsMGz-BkGvJhTftR8GT6BbFpRhv_09h/view?usp=drive_link)]
 
 > *Click the image above to watch the full demonstration – my hand movements control both UR3e arms simultaneously in real-time*
 
@@ -191,17 +191,9 @@ This project validates Finite Element Analysis (FEA) accuracy by comparing simul
 
 ---
 ### 📂 Documentation
-[**Click here to view the Full 57-Page Technical Report (PDF)**]([Analysis_Test_Correlation.pdf](https://drive.google.com/file/d/1_JJMr1fJPw6OwN85NkwjqSGbb5CWG9P4/view?usp=drive_link))
-
-## 🏆 ACHIEVEMENTS
-
-- ✅ **Validated FEA against Peterson's theory** with <3% error in optimal cases
-- ✅ **Improved safety factor from 1.17 to 6.93** through geometric optimization
-- ✅ **Demonstrated 575% stiffness increase** with same material
-- ✅ **Comprehensive documentation** with 57-page technical report
+[**Click here to view the Full 57-Page Technical Report (PDF)**](https://drive.google.com/file/d/1_JJMr1fJPw6OwN85NkwjqSGbb5CWG9P4/view?usp=drive_link)
 
 ---
-
 # 🛰️ PROJECT 2: CubeSat Electronics Mounting Bracket
 
 > **Aerospace-grade structural analysis for spaceflight hardware**
