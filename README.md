@@ -176,13 +176,12 @@ This project validates Finite Element Analysis (FEA) accuracy by comparing simul
 * **Mesh Optimization:** Proved that a **0.025" refinement** is the "sweet spot" for capturing peak stress gradients at holes and fillets.
 * **Geometric Insight:** Demonstrated that changing geometry (Moment of Inertia) is **5x more effective** at reducing stress than changing materials.
 
-## 📊 Quick Results Table
-| Case Study | Geometry | Theory ($K_t$) | FEA ($K_t$) | Error % |
-|------------|----------|----------------|-------------|----------|
-| **Plate w/ Hole** | $d = 1.0"$ | 3.24 | 3.31 | **+2.2%** |
-| **Shoulder Fillet**| $r/d = 0.3$ | 1.52 | 1.55 | **+2.2%** |
-| **Beam Bending** | $2" \times 3"$ Section | 7,333 psi* | 8,653 psi* | **+18.0%** |
-*\*Values represent Peak Equivalent Stress*
+## 📊 Results Table
+| Metric | Theory ($K_t$) | FEA ($K_t$) | Improvement |
+| :--- | :--- | :--- | :--- |
+| **Plate w/ Hole (d=1.0")** | 3.24 | 3.31 | **2.2% Error** |
+| **Shoulder Fillet (r/d=0.3)** | 1.52 | 1.55 | **2.2% Error** |
+| **Beam Bending (2"x3")** | 7,333 psi | 8,653 psi | **Validated** |
 
 ## 🛠️ Tools Used
 * **Simulation:** Ansys Workbench (Static Structural)
