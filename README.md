@@ -176,14 +176,11 @@ This project validates Finite Element Analysis (FEA) accuracy by comparing simul
 * **Mesh Optimization:** Proved that a **0.025" refinement** is the "sweet spot" for capturing peak stress gradients at holes and fillets.
 * **Geometric Insight:** Demonstrated that changing geometry (Moment of Inertia) is **5x more effective** at reducing stress than changing materials.
 
-## 📊 Results Table
-| Metric | Theory ($K_t$) | FEA ($K_t$) | Improvement |
-| :--- | :--- | :--- | :--- |
-| **Plate w/ Hole (d=1.0")** | 3.24 | 3.31 | **2.2% Error** |
-| **Shoulder Fillet (r/d=0.3)** | 1.52 | 1.55 | **2.2% Error** |
-| **Beam Bending (2"x3")** | 7,333 psi | 8,653 psi | **Validated** |
-
----
+## 📊 Results 
+* **Plate with Hole (d=1.0"):** Theory $K_t$ = 3.24 | FEA $K_t$ = 3.31 | **Error: 2.2%**
+* **Shoulder Fillet (r/d=0.3"):** Theory $K_t$ = 1.52 | FEA $K_t$ = 1.55 | **Error: 2.2%**
+* **Beam Bending (2"x3"):** Theoretical stress = 7,333 psi | FEA stress = 8,653 psi | **Result: Validated**
+* **Key Insight:** 0.025" mesh refinement is mandatory for capturing peak stress; coarse meshes underestimate loads by >10%.
 
 
 ## 🛠️ Tools Used
@@ -213,6 +210,41 @@ This project focuses on the design and structural validation of a mounting brack
 | **Max Stress (X-Axis)** | - | 293.9 MPa | **81.3 MPa** | 72% ↓ |
 | **Min Safety Factor** | > 1.5 | 1.43 | **2.14** | ✅ PASSED |
 | **1st Nat. Frequency**| > 65 Hz | 123 Hz | **281 Hz** | ✅ EXCEEDED |
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Metric</th>
+      <th align="left">Requirement</th>
+      <th align="left">Iteration 1 (Ti-6Al-4V)</th>
+      <th align="left">Iteration 2 (AISI 303)</th>
+      <th align="left">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Max Stress (X-Axis)</strong></td>
+      <td>-</td>
+      <td>293.9 MPa</td>
+      <td><strong>81.3 MPa</strong></td>
+      <td>72% ↓</td>
+    </tr>
+    <tr>
+      <td><strong>Min Safety Factor</strong></td>
+      <td>&gt; 1.5</td>
+      <td>1.43</td>
+      <td><strong>2.14</strong></td>
+      <td>✅ PASSED</td>
+    </tr>
+    <tr>
+      <td><strong>1st Nat. Frequency</strong></td>
+      <td>&gt; 65 Hz</td>
+      <td>123 Hz</td>
+      <td><strong>281 Hz</strong></td>
+      <td>✅ EXCEEDED</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
