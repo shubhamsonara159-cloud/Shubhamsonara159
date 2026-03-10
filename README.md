@@ -176,12 +176,11 @@ This project validates Finite Element Analysis (FEA) accuracy by comparing simul
 * **Mesh Optimization:** Proved that a **0.025" refinement** is the "sweet spot" for capturing peak stress gradients at holes and fillets.
 * **Geometric Insight:** Demonstrated that changing geometry (Moment of Inertia) is **5x more effective** at reducing stress than changing materials.
 
-## 📊 Results 
-* **Plate with Hole (d=1.0"):** Theory $K_t$ = 3.24 | FEA $K_t$ = 3.31 | **Error: 2.2%**
-* **Shoulder Fillet (r/d=0.3"):** Theory $K_t$ = 1.52 | FEA $K_t$ = 1.55 | **Error: 2.2%**
-* **Beam Bending (2"x3"):** Theoretical stress = 7,333 psi | FEA stress = 8,653 psi | **Result: Validated**
-* **Key Insight:** 0.025" mesh refinement is mandatory for capturing peak stress; coarse meshes underestimate loads by >10%.
-
+## 📊 Results
+- **Plate with Hole (d=1.0"):** Theory Kt = 3.24 | FEA Kt = 3.31 | **Error: 2.2%**
+- **Shoulder Fillet (r/d=0.3"):** Theory Kt = 1.52 | FEA Kt = 1.55 | **Error: 2.2%**
+- **Beam Bending (2"x3"):** Theoretical stress = 7,333 psi | FEA stress = 8,653 psi | **Result: Validated**
+- **Key Insight:** 0.025" mesh refinement is mandatory for capturing peak stress; coarse meshes underestimate loads by >10%.
 
 ## 🛠️ Tools Used
 * **Simulation:** Ansys Workbench (Static Structural)
@@ -205,12 +204,18 @@ This project focuses on the design and structural validation of a mounting brack
 * **Enhanced Safety:** Improved the minimum Factor of Safety (FoS) from **1.43 to 2.14** through strategic material selection (AISI 303) and profile refinement.
 
 ## 📊 Technical Comparison
-| Metric | Requirement | Iteration 1 (Ti-6Al-4V) | Iteration 2 (AISI 303) | Status |
-|:---|:---|:---|:---|:---|
-| **Max Stress (X-Axis)** | - | 293.9 MPa | **81.3 MPa** | 72% ↓ |
-| **Min Safety Factor** | > 1.5 | 1.43 | **2.14** | ✅ PASSED |
-| **1st Nat. Frequency** | > 65 Hz | 123 Hz | **281 Hz** | ✅ EXCEEDED |
----
+
+**Max Stress (X-Axis)**
+- Iteration 1 (Ti-6Al-4V): 293.9 MPa
+- Iteration 2 (AISI 303): 81.3 MPa *(72% reduction)*
+
+**Min Safety Factor** *(Requirement: > 1.5)*
+- Iteration 1 (Ti-6Al-4V): 1.43 ❌
+- Iteration 2 (AISI 303): 2.14 ✅ PASSED
+
+**1st Natural Frequency** *(Requirement: > 65 Hz)*
+- Iteration 1 (Ti-6Al-4V): 123 Hz
+- Iteration 2 (AISI 303): 281 Hz ✅ EXCEEDED
 
 ## 🛠️ Engineering Competencies
 * **Nonlinear FEA:** Simulated frictional contacts (µ=0.2) and large deflections for realistic load path analysis.
@@ -235,14 +240,28 @@ This project involves the structural design and optimization of a **Carbon Fiber
 * **Strategic Weight Reduction:** Successfully implemented **ply trimming** (dropping 90° layers 4 and 12) to minimize mass while maintaining a robust SM of 10.59.
 * **Failure Mode Validation:** Utilized the **Tsai-Wu Failure Criterion** to ensure the Inverse Reserve Factor (IRF) remained at an elite level of **0.05**.
 
-## 📊 Quick Results Table
-| Configuration | Layup Strategy | Total Plies | Margin of Safety (SM) | IRF | Status |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Initial** | [0/45/-45/90]s × 1 | 8 (7 trimmed) | 0.9 | 0.06 | Baseline |
-| **Improved** | [0/45/-45/90]s × 2 | 16 | 12.287 | 0.04 | High Strength |
-| **Optimized** | **[0/45/-45/90]s × 2*** | **14** | **10.591** | **0.05** | ✅ **FINAL** |
-*\*Optimized design utilizes targeted ply-dropping for weight efficiency.*
+### 📊 Quick Results
 
+**Initial Configuration**
+- Layup Strategy: [0/45/-45/90]s × 1
+- Total Plies: 8 (7 trimmed)
+- Margin of Safety (SM): 0.9
+- IRF: 0.06
+- Status: Baseline
+
+**Improved Configuration**
+- Layup Strategy: [0/45/-45/90]s × 2
+- Total Plies: 16
+- Margin of Safety (SM): 12.287
+- IRF: 0.04
+- Status: High Strength
+
+**Optimized Configuration** ✅ FINAL
+- Layup Strategy: [0/45/-45/90]s × 2 *(with targeted ply-dropping)*
+- Total Plies: 14
+- Margin of Safety (SM): 10.591
+- IRF: 0.05
+- Status: Optimized for weight efficiency
 ---
 
 ## 🛠️ Tools Used
@@ -284,6 +303,14 @@ This project involves the structural design and optimization of a **Carbon Fiber
 | ✅ **Modular assembly** | Easy maintenance and part replacement |
 
 ### 📁 CAD Files
+
+**Full Pump Assembly**
+- Description: Complete centrifugal pump
+- Format: .SLDASM
+- [CAD File](#) | [STL File](https://drive.google.com/file/d/1Ow6IMRqj_t4rm53GcW-qntSOM763Eczx/view?usp=drive_link)
+
+
+📁 CAD Files
 | File | Description | Format | Link |
 |------|-------------|--------|------|
 | **Full Pump Assembly** | Complete centrifugal pump | .SLDASM |CAD File
