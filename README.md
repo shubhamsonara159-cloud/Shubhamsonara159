@@ -169,7 +169,7 @@ I proposed and validated a **Slotted Converging-Diverging (S-CD) geometry** wher
 **Ansys Workbench Simulation & Analytical Correlation Study**
 
 ## 📖 Overview
-This project validates Finite Element Analysis (FEA) accuracy by comparing simulated stress concentrations against **Peterson's Theoretical Factors ($K_t$)**. It serves as a technical benchmark for mesh sensitivity and structural reliability.
+This project validates Finite Element Analysis (FEA) accuracy by comparing simulated stress concentrations against **Peterson's Theoretical Factors**. It serves as a technical benchmark for mesh sensitivity and structural reliability.
 
 ## 🚀 Key Achievements
 * **High Accuracy:** Achieved a **2.2% correlation** between FEA and Theory for complex geometries.
@@ -336,7 +336,7 @@ This project involves the structural design and optimization of a **Carbon Fiber
 ### Animation / Motion Study
 [[Watch Animation](https://drive.google.com/file/d/1xuxxkCB-Fr_ETgu9kvBzxQl9QUUzzdvy/view?usp=drive_link)]
 > *📌 **Note:** Click the link above to view the jaw mechanism in motion*
-> [CAD File] | [STL File](https://drive.google.com/file/d/1DHjSgzLE-1GvEyVzbTtuvgDfAPWRScHn/view?usp=drive_link)
+[CAD File] | [STL File](https://drive.google.com/file/d/1DHjSgzLE-1GvEyVzbTtuvgDfAPWRScHn/view?usp=drive_link)
 
 
 ---
