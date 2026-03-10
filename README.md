@@ -206,46 +206,10 @@ This project focuses on the design and structural validation of a mounting brack
 
 ## 📊 Technical Comparison
 | Metric | Requirement | Iteration 1 (Ti-6Al-4V) | Iteration 2 (AISI 303) | Status |
-| :--- | :--- | :--- | :--- | :--- |
+|:---|:---|:---|:---|:---|
 | **Max Stress (X-Axis)** | - | 293.9 MPa | **81.3 MPa** | 72% ↓ |
 | **Min Safety Factor** | > 1.5 | 1.43 | **2.14** | ✅ PASSED |
-| **1st Nat. Frequency**| > 65 Hz | 123 Hz | **281 Hz** | ✅ EXCEEDED |
-
-<table>
-  <thead>
-    <tr>
-      <th align="left">Metric</th>
-      <th align="left">Requirement</th>
-      <th align="left">Iteration 1 (Ti-6Al-4V)</th>
-      <th align="left">Iteration 2 (AISI 303)</th>
-      <th align="left">Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Max Stress (X-Axis)</strong></td>
-      <td>-</td>
-      <td>293.9 MPa</td>
-      <td><strong>81.3 MPa</strong></td>
-      <td>72% ↓</td>
-    </tr>
-    <tr>
-      <td><strong>Min Safety Factor</strong></td>
-      <td>&gt; 1.5</td>
-      <td>1.43</td>
-      <td><strong>2.14</strong></td>
-      <td>✅ PASSED</td>
-    </tr>
-    <tr>
-      <td><strong>1st Nat. Frequency</strong></td>
-      <td>&gt; 65 Hz</td>
-      <td>123 Hz</td>
-      <td><strong>281 Hz</strong></td>
-      <td>✅ EXCEEDED</td>
-    </tr>
-  </tbody>
-</table>
-
+| **1st Nat. Frequency** | > 65 Hz | 123 Hz | **281 Hz** | ✅ EXCEEDED |
 ---
 
 ## 🛠️ Engineering Competencies
