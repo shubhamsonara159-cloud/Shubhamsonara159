@@ -255,6 +255,9 @@ This project involves the structural design and optimization of a **Carbon Fiber
 ---
 
 
+
+
+
 ## 🎨 DESIGN SHOWCASE - CAD MODELS & ASSEMBLIES
 
 > *Exploring form, function, and manufacturability through parametric design*
