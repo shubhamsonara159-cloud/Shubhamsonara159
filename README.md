@@ -181,7 +181,7 @@ This project validates Finite Element Analysis (FEA) accuracy by comparing simul
 | :--- | :--- | :--- | :--- | :--- |
 | **Plate w/ Hole** | $d = 1.0"$ | 3.24 | 3.31 | **+2.2%** |
 | **Shoulder Fillet**| $r/d = 0.3$ | 1.52 | 1.55 | **+2.2%** |
-| **Beam Bending** | $2"x3"$ Section | 7,333 psi* | 8,653 psi* | **+18.0%** |
+| **Beam Bending** | $2" \times 3"$ Section | 7,333 psi* | 8,653 psi* | **+18.0%** |
 *\*Values represent Peak Equivalent Stress*
 
 ## 🛠️ Tools Used
