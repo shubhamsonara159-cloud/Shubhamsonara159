@@ -223,182 +223,34 @@ This project focuses on the design and structural validation of a mounting brack
 ---
 
 # 🔧 PROJECT 3: CFRP Vertical Pump Shaft Analysis
+**Composite Material Design, Ply Optimization & Tsai-Wu Failure Validation**
 
-> **Composite material design for industrial pumping applications**
+## 📖 Overview
+This project involves the structural design and optimization of a **Carbon Fiber Reinforced Polymer (CFRP)** shaft for industrial vertical pumps. The study focuses on replacing traditional steel with IM9 Carbon Fiber/Epoxy to provide superior corrosion resistance and a high strength-to-weight ratio under multi-axial loading.
 
-[[View Full Report](https://drive.google.com/file/d/1nvamfVeiSXRf3xH7h8CjGFaJaigAe4AB/view?usp=drive_link)](Analysis_of_Vertical_Pump.pdf)
+## 🚀 Key Achievements
+* **1265% Safety Margin Boost:** Engineered an iterative layup strategy that increased the Margin of Safety (SM) from **0.9 to 12.287**.
+* **Strategic Weight Reduction:** Successfully implemented **ply trimming** (dropping 90° layers 4 and 12) to minimize mass while maintaining a robust SM of 10.59.
+* **Failure Mode Validation:** Utilized the **Tsai-Wu Failure Criterion** to ensure the Inverse Reserve Factor (IRF) remained at an elite level of **0.05**.
 
-## 📋 PROJECT OVERVIEW
+## 📊 Quick Results Table
+| Configuration | Layup Strategy | Total Plies | Margin of Safety (SM) | IRF | Status |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Initial** | [0/45/-45/90]s × 1 | 8 (7 trimmed) | 0.9 | 0.06 | Baseline |
+| **Improved** | [0/45/-45/90]s × 2 | 16 | 12.287 | 0.04 | High Strength |
+| **Optimized** | **[0/45/-45/90]s × 2*** | **14** | **10.591** | **0.05** | ✅ **FINAL** |
+*\*Optimized design utilizes targeted ply-dropping for weight efficiency.*
 
-### 🎯 Objective
-Design and perform static structural analysis of a **carbon fiber reinforced polymer (CFRP) shaft** using IM9 carbon fiber with epoxy matrix for a vertical pump application. The shaft must transfer rotational energy from motor to impeller while withstanding multiple loads and meeting strict safety criteria.
-
-### 🎯 Technical Requirements
-- **Margin of Safety (SM) > 0** for all plies and regions
-- **Inverse Reserve Factor (IRF) < 1** using Tsai-Wu failure criterion
-- **Deformation within acceptable limits** (~0.0001" under pressure load)
-- **Weight optimization** through ply trimming
-
----
-
-## 🔧 MATERIAL SYSTEM: IM9 Carbon Fiber / Epoxy
-
-| Property | Value |
-|----------|-------|
-| **Density** | 1550 kg/m³ |
-| **Young's Modulus X** | 180 GPa |
-| **Young's Modulus Y, Z** | 10 GPa |
-| **Tensile Strength X** | 2000 MPa |
-| **Tensile Strength Y, Z** | 50 MPa |
-| **Compressive Strength X** | -1200 MPa |
-| **Shear Strength** | 80 MPa |
-| **CTE X** | -5e-7 /°C |
-| **CTE Y, Z** | 3e-5 /°C |
+## 🛠️ Tools Used
+* **Simulation:** Ansys Workbench (Static Structural & ACP/Composite PrepPost)
+* **Analysis:** Tsai-Wu Failure Theory, Hygrothermal Expansion Modeling
+* **Documentation:** 27-Page Comprehensive Technical Report
 
 ---
-
-## 📐 COMPOSITE LAYUP OPTIMIZATION
-
-### Iterative Design Process
-
-| Iteration | Layup | Plies | Results |
-|-----------|-------|-------|---------|
-| **Initial** | [0/45/-45/90]s ×1 | 8 plies (trimmed to 7) | SM = 0.9, IRF = 0.06, Deformation = 0.8" |
-| **Improved** | [0/45/-45/90]s ×2 | 16 plies | SM = 12.287, IRF = 0.04, Deformation = 0.25" |
-| **Weight-Optimized** | [0/45/-45/90]s ×2 (drop 90° plies 4 & 12) | 14 plies | SM = 10.591, IRF = 0.04, Deformation = 0.3" |
-
-**✅ Final configuration balances weight savings with safety margins**
-
+### 📂 Documentation
+[**Click here to view the Full 27-Page Technical Report (https://drive.google.com/file/d/1nvamfVeiSXRf3xH7h8CjGFaJaigAe4AB/view?usp=drive_link)**]
 ---
 
-## ⚙️ LOADING CONDITIONS
-
-| Load Type | Magnitude | Application |
-|-----------|-----------|-------------|
-| **Compressive Axial** | -400 lbf | Free end (Z-direction) |
-| **Centrifugal** | -140 lbf | Midpoint (Y-direction) |
-| **Thermal** | 113°F (ΔT = 45°F) | Entire shaft body |
-| **Internal Pressure** | 6.56 psi | Inner surface |
-| **Boundary Condition** | Fixed Support | Z = 0 (motor connection) |
-
----
-
-## 📊 KEY RESULTS BY ITERATION
-
-### Initial Layup (8 plies → 7 plies trimmed)
-
-| Parameter | Value | Status |
-|-----------|-------|--------|
-| **Max Deformation** | 1.6355" at free end | ✓ Acceptable |
-| **Max Principal Stress** | 151.2 MPa | ✓ << 2000 MPa |
-| **IRF (Critical Region)** | 0.2 (unaveraged) | ✓ < 1 |
-| **SM (Critical Region)** | 0.9 | ✓ > 0 |
-
-### Improved Layup (16 plies)
-
-| Parameter | Value | Status |
-|-----------|-------|--------|
-| **Max Deformation** | 0.5348" at free end | ✓ Improved |
-| **Max Principal Stress** | 77.1 MPa | ✓ 49% reduction |
-| **IRF (Critical Region)** | 0.045 | ✓ Excellent |
-| **SM (Critical Region)** | 12.287 | ✓ 1265% improvement |
-
-### Weight-Optimized Layup (14 plies - Final Design)
-
-| Parameter | Value | Status |
-|-----------|-------|--------|
-| **Max Deformation** | 0.6286" at free end | ✓ Acceptable |
-| **Max Principal Stress** | 82.1 MPa | ✓ Well below limit |
-| **IRF (Critical Region)** | 0.05 | ✓ < 1 |
-| **SM (Critical Region)** | 10.591 | ✓ > 0 |
-| **Weight Reduction** | 2 plies removed | ✓ Achieved |
-
----
-
-## 📸 KEY VISUAL RESULTS
-
-### Mesh & Model Setup
-<img width="817" height="681" alt="image" src="https://github.com/user-attachments/assets/3da03bf1-8037-411c-b3e8-6cd75758cca4" />
-
-**Fig 1:** Structured quadrilateral mesh with refinement at critical regions (0.1" global size)
-
-### Ply Stackup Visualization
-<img width="842" height="488" alt="image" src="https://github.com/user-attachments/assets/caba0349-52ca-43d0-a781-331b00f97e4d" />
-<img width="856" height="526" alt="image" src="https://github.com/user-attachments/assets/12142592-ab81-471f-9880-bb663ec27221" />
-<img width="866" height="571" alt="image" src="https://github.com/user-attachments/assets/59c0a755-0204-48d9-870c-f1a3c763913d" />
-<img width="846" height="503" alt="image" src="https://github.com/user-attachments/assets/9d23d681-1442-4b65-bc8f-c1407c97c69c" />
-<img width="846" height="503" alt="image" src="https://github.com/user-attachments/assets/13187224-efc3-4ca4-8a88-fa01a4a0f68c" />
-
-**Fig 2:** [0/45/-45/90]s ×2 layup showing 16 plies with 90° ply trimming at center
-
-### Stress Distribution - Final Design
-<img width="827" height="361" alt="image" src="https://github.com/user-attachments/assets/2b3e35f4-c481-4f12-86d1-104c5f388e15" />
-/>
-
-**Fig 3:** Maximum principal stress distribution ( ~68.9 MPa in the middle portion)
-
-### Failure Index (IRF) - Final Design
-<img width="830" height="360" alt="image" src="https://github.com/user-attachments/assets/a1f89297-7d6d-471e-8499-535ddc0bda4f" />
-
-
-**Fig 4:** Inverse Reserve Factor distribution (max 0.48944, well below 1.0)
-
-### Deformation - Final Design
-<img width="828" height="366" alt="image" src="https://github.com/user-attachments/assets/628405ef-f499-487a-9f71-11055b8ca0a2" />
-
-**Fig 5:** Total deformation (~0.8 inches in the middle portion)
-
----
-
-## 🧠 ENGINEERING INSIGHTS & LEARNING
-
-### What This Project Taught Me:
-
-1. **Composite Design is Iterative**  
-   The initial [0/90] layup failed under shear loads. Adding ±45° plies reduced IRF from >1 to 0.04—a critical lesson in anisotropic material behavior.
-
-2. **Ply Trimming Balances Weight & Strength**  
-   Dropping two 90° plies reduced weight while maintaining SM >10—showing that strategic material removal can optimize performance.
-
-3. **Tsai-Wu Criterion is Essential**  
-   For orthotropic materials, simple von-Mises stress isn't enough. Tsai-Wu failure criterion properly accounts for fiber-direction vs transverse strengths.
-
-4. **Thermal Effects Matter in Composites**  
-   With CTE = -5e-7 in fiber direction but 3e-5 transverse, thermal loads create significant internal stresses that must be analyzed.
-
-5. **Margin of Safety vs Deformation Trade-off**  
-   The improved layup achieved SM = 12.287 but increased deformation—real engineering requires balancing competing requirements.
-
-### How This Applies to My Career Interests:
-
-| Interest Area | Application from This Project |
-|---------------|-------------------------------|
-| **Pump Design** | Direct industry experience—worked as pump designer before MS |
-| **Composite Materials** | Advanced material selection for corrosive environments |
-| **R&D** | Iterative optimization from concept to validated design |
-| **Manufacturing** | Ply trimming impacts manufacturability and cost |
-| **Supply Chain** | Material selection (CFRP vs steel) affects sourcing and lifecycle cost |
-
----
-
-## 🏆 KEY ACHIEVEMENTS ACROSS ALL PROJECTS
-
-- ✅ **Validated FEA against Peterson's theory** with <3% error in optimal cases
-- ✅ **Designed aerospace bracket** meeting all CubeSat launch requirements with 281 Hz natural frequency
-- ✅ **Optimized composite pump shaft** with SM = 10.59 and IRF = 0.04
-- ✅ **Achieved 72% stress reduction** through geometric optimization in CubeSat bracket
-- ✅ **Demonstrated 1265% safety margin improvement** through composite layup optimization
-- ✅ **Successfully implemented ply trimming** for weight reduction while maintaining safety
-- ✅ **Completed 7+ analysis iterations** across 3 projects demonstrating systematic engineering approach
-
----
-
-## 📚 COMPLETE REPORTS
-
-📎 **[[CFRP Vertical Pump Shaft](https://drive.google.com/file/d/1nvamfVeiSXRf3xH7h8CjGFaJaigAe4AB/view?usp=drive_link)](Analysis_of_Vertical_Pump.pdf)**  
-*27-page composite shaft design with Tsai-Wu failure analysis and ply optimization*
-
----
 
 ## 🎨 DESIGN SHOWCASE - CAD MODELS & ASSEMBLIES
 
