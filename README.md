@@ -1,8 +1,8 @@
 # Shubham J. Sonara - Mechanical Engineering Portfolio
 
 **MS Mechanical Engineering Candidate** | University of New Haven  
-📧 shubham.sonara@example.com | 📍 New Haven, CT  
-🔗 [LinkedIn](https://linkedin.com/in/shubham-sonara) | 🐙 [GitHub](https://github.com/shubhamsonara159-cloud)
+📧 Shubhamsonara159@gmail.com | 📍 New Haven, CT  
+🔗 [LinkedIn](https://www.linkedin.com/in/shubhamsonara/) | 🐙 [GitHub](https://github.com/shubhamsonara159-cloud)
 
 ---
 
