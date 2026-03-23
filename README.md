@@ -71,7 +71,7 @@ When I move my hand forward, the robot moves forward. When I open my hand, the g
 
 ### Watch: Dual UR3e Robots Controlled by Hand Gestures
 
-[[Dual Robot Teleoperation Demo](https://drive.google.com/file/d/1CPsMGz-BkGvJhTftR8GT6BbFpRhv_09h/view?usp=drive_link)]
+[[Dual Robot Teleoperation Demo](https://drive.google.com/file/d/1nUFXCtRJxbi0KNTitMeYYsJDFLAgprGg/view?usp=drive_link)]
 
 > *Click the image above to watch the full demonstration – my hand movements control both UR3e arms simultaneously in real-time*
 
